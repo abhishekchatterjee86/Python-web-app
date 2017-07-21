@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "7YY4NV42A9.com.philips.cl.di.dev.philipsRegistration.beta",
+				"paths": [ "*"]
+			}
+		]
+	}
+}
